@@ -6,4 +6,8 @@ public class Main {
 	// write your code here
         System.out.println("Intial things setting up");
     }
+
+    public void hello(){
+        System.out.println("Just some random things");
+    }
 }
